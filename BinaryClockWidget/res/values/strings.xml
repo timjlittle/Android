@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Binary Clock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello"> 
+    Hello\n\n 
+    Thanks for installing the Binary Clock Widget.\n\n 
+    You need to add the widget to your home screen to use it.  
+    Long-press the home screen and select the widget from the  
+    list of those installed on your device. 
+</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
